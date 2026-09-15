@@ -15,6 +15,7 @@ El proyecto integra diferentes técnicas de análisis espacial para explorar pat
 * Análisis de **densidad de población**.
 * Cálculo y representación del **Índice de Verde Urbano**.
 * Análisis de oportunidades territoriales.
+* Cálculo de **índice de permeabilidad de suelo**.
 * Cálculo del **Índice de Shannon**.
 * Análisis exploratorio de datos censales.
 * **Autocorrelación espacial**.
